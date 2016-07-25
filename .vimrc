@@ -2,7 +2,7 @@ set tabstop=4
 syntax on
 set number
 set ruler
-expandtab
+set expandtab
 
 
 call pathogen#infect() 
